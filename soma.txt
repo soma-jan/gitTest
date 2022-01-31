@@ -1,1 +1,4 @@
 dfsdgfdgthis is first tet file
+git remote set-url origin git@github.com:soma.j18@gmail.com/gitTest.git
+
+git remote set-url origin https://github.com/soma.j18@gmail.com/gitTest.git
